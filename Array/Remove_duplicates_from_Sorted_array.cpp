@@ -18,6 +18,8 @@ int removeDuplicates(int arr[], int n) {
   return k;
 }
 
+////////////////////////////////////////
+
 
 
 int removeDuplicates(int arr[], int n)

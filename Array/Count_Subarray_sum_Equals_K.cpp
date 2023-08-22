@@ -26,6 +26,9 @@ int findAllSubarraysWithGivenSum(vector < int > & arr, int k) {
 }
 
 
+///////////////////////////////////
+
+
 int findAllSubarraysWithGivenSum(vector < int > & arr, int k) {
     int n = arr.size(); // size of the given array.
     int cnt = 0; // Number of subarrays:
@@ -44,6 +47,9 @@ int findAllSubarraysWithGivenSum(vector < int > & arr, int k) {
     }
     return cnt;
 }
+
+
+////////////////////////////////
 
 
 

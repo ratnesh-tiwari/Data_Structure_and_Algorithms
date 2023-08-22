@@ -1,5 +1,5 @@
 /*
-limk: 
+limk: https://www.codingninjas.com/studio/problems/reading_6845742?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
 
 */
 
@@ -13,6 +13,7 @@ string twoSum(int n, vector<int> &arr, int target) {
     return "NO";
 }
 
+//////////////////////////
 
 string twoSum(int n, vector<int> &arr, int target) {
     unordered_map<int, int> mpp;
@@ -27,6 +28,8 @@ string twoSum(int n, vector<int> &arr, int target) {
     return "NO";
 }
 
+
+//////////////////////////
 
 string twoSum(int n, vector<int> &arr, int target) {
     sort(arr.begin(), arr.end());

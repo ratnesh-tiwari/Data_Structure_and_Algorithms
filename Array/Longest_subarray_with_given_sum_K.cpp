@@ -27,6 +27,9 @@ int getLongestSubarray(vector<int>& a, long long k) {
 } 
 
 
+////////////////////////////
+
+
 int getLongestSubarray(int []a, long k) {
         int n = a.length; // size of the array.
 
@@ -46,6 +49,9 @@ int getLongestSubarray(int []a, long k) {
     }
 
 
+
+
+///////////////////////////////////////////
 
 int getLongestSubarray(int []a, long k) {
         int n = a.length; // size of the array.
@@ -80,6 +86,9 @@ int getLongestSubarray(int []a, long k) {
         return maxLen;
     }
 
+
+
+/////////////////////////////////
 
 
 int getLongestSubarray(int []a, long k) {

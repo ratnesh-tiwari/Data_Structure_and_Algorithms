@@ -18,6 +18,10 @@ int secondlargest(int n, vector<int> a){
     return slargest;
 }
 
+
+
+////////////////////////////////
+
 int secondsmallest(int n, vector<int> a){
     int smalest = a[0];
     int ssmallest = INT_MAX;

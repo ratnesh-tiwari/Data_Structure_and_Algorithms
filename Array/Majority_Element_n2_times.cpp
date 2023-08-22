@@ -28,7 +28,7 @@ int majorityElement(vector<int> v) {
     return -1;
 }
 
-
+//////////////////////////////////
 
 int majorityElement(vector<int> v) {
 
@@ -54,7 +54,7 @@ int majorityElement(vector<int> v) {
 }
 
 
-
+////////////////////////////////////
 
 
 int majorityElement(vector<int> v) {

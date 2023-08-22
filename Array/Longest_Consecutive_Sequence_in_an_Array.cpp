@@ -41,7 +41,7 @@ int longestSuccessiveElements(vector<int>&a) {
 
 
 
-
+///////////////////////////////////
 
 
 
@@ -73,6 +73,8 @@ int longestSuccessiveElements(vector<int>&a) {
 
 }
 
+
+/////////////////////////////////////////
 
 
 int longestSuccessiveElements(vector<int>&a) {

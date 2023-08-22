@@ -25,6 +25,8 @@ void sortArray(ArrayList<Integer> arr, int n) {
         for (int i = cnt0 + cnt1; i < n; i++) arr.set(i, 2); // replacing 2's
     }
 
+//////////////////////////////////////////////////////////
+
 
 
 void sortArray(ArrayList<Integer> arr, int n) {

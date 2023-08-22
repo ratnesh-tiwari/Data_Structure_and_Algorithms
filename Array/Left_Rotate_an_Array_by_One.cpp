@@ -16,6 +16,14 @@ void solve(int arr[], int n) {
   cout << endl;
 }
 
+
+
+
+
+
+
+//////////////////////////////////////
+
 vector<int> rotateArray(vector<int>& arr, int n) {
     int temp = arr[0];
     for(int i=1;i<n;i++){

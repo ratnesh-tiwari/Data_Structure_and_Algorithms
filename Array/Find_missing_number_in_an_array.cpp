@@ -36,6 +36,9 @@ int missingNumber(vector<int>&a, int N) {
 }
 
 
+//////////////////////////////
+
+
 int missingNumber(vector<int>&a, int N) {
 
     int hash[N + 1] = {0}; //hash array
@@ -57,6 +60,8 @@ int missingNumber(vector<int>&a, int N) {
 }
 
 
+//////////////////////
+
 
 int missingNumber(vector<int>&a, int N) {
 
@@ -72,6 +77,13 @@ int missingNumber(vector<int>&a, int N) {
     int missingNum = sum - s2;
     return missingNum;
 }
+
+
+
+
+
+
+///////////////////////////////////
 
 
 int missingNumber(vector<int>&a, int N) {
