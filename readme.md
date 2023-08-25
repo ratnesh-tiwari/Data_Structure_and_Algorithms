@@ -2,7 +2,7 @@
 
 ## Topic covered
 
-*Recursion Backtracking
-*Array
-*Binary Search
-*String
+- Recursion Backtracking
+- Array
+- Binary Search
+- String
