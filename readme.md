@@ -1,4 +1,4 @@
-# Data Structur and Algorithm using c++
+# Data Structure and Algorithm using c++
 
 ## Topic covered
 
